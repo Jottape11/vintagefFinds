@@ -1,0 +1,55 @@
+.login-conteudo {
+    background-color: #948b8b;
+    margin: 60px auto; 
+    max-width: fit-content;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-conteudo h1 {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.form {
+    padding: 0 20px 20px 20px;
+}
+
+.form .div-EmailSenha {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+
+.form .div-EmailSenha input {
+    width: 550px;
+    border: none;
+    border-radius: 4px;
+    padding: 4px px;
+}
+
+.form button {
+    width: 100%;
+    border: none;
+    margin-top: 20px;
+    background-color: #292bbd;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.cadastrar{
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 4px;
+}
+
+.cadastrar a{
+    font-weight: bold;
+}
+
+
+  

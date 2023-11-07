@@ -1,0 +1,14 @@
+.col{
+    background-color: #0070F9;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.entrar-cadastro{
+    display: flex;
+    align-content: flex-end;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+}
